@@ -1,0 +1,12 @@
+{
+  "export_job_id": "0bebe249-ab7d-4786-b006-abefd1e43287",
+  "id_short": 620212,
+  "published_at": "2026-04-16T07:47:35Z",
+  "repo_name": "new-restaurant-domains-365-days-in-indiana-us-sample-620212",
+  "sample_asset_name": "beamstation_620212_restaurants-us-in_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/620212/beamstation_620212_restaurants-us-in_SAMPLE_DIST.csv",
+  "sample_records": 50,
+  "sample_sha256": "716da7f74cb831f4185ea0677f164d646c5b11cbe0628835cdbc82c0eaef8120",
+  "sample_size_bytes": 189646,
+  "total_records": 504
+}
