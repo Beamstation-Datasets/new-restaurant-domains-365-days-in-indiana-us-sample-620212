@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The Startup List.\n\nBusinesses that registered their website domain < 365 Days ago. \n\nThey are in the \"Setup Phase\"\u2014need everything (Payroll, Insurance, SEO).",
+  "config_name": "New Restaurant Domains < 365 days in Indiana, US",
+  "export_job_id": "0bebe249-ab7d-4786-b006-abefd1e43287",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 620212,
+  "location_name": "Indiana",
+  "location_type": "state",
+  "repo_name": "new-restaurant-domains-365-days-in-indiana-us-sample-620212",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/620212/beamstation_620212_restaurants-us-in_SAMPLE_DIST.csv",
+  "sample_pct": 9.92,
+  "sample_records": 50,
+  "sample_sha256": "716da7f74cb831f4185ea0677f164d646c5b11cbe0628835cdbc82c0eaef8120",
+  "sample_size_bytes": 189646,
+  "total_records": 504,
+  "updated_at": "2026-04-09T20:31:36.226546+00:00"
+}
